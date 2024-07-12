@@ -27,19 +27,7 @@ This project offers a simple and effective CSS template designed to style README
 - Easy to read typography
 - Customizable color scheme
 - Responsive layout
-
-## Usage
-
-To use this CSS template in your README file, follow these steps:
-
-1. Copy the CSS code provided in the [CSS Code](#css-code) section.
-2. Paste the CSS code into a `<style>` tag at the top of your README file (if supported by your Markdown viewer) or link to an external CSS file.
-3. Customize the CSS code as needed to fit your project's style.
-
-## CSS Code
-
-Here's the CSS code for the template:
-
+  
 ```css
 /* General Styles */
 body {
